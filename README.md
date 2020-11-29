@@ -1,8 +1,4 @@
-# Devops Engineer with Arkademy
+### Seleksi Devops Engineer with Arkademy
 
-## Application Used
-* HTML5
-* CSS Layouting
-* Bootstrap 4
-
-![Medium + divice]()
+#### Soal test:
+* <i>Soal.4</i> Membuat CRUD system.
